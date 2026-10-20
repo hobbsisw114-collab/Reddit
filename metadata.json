@@ -1,0 +1,6 @@
+{
+  "name": "AetherScroll - Reddit Media Scroller",
+  "description": "An immersive, high-performance Reddit media scroller with stream, masonry, and cinema modes, smart media extraction, and keyboard navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
